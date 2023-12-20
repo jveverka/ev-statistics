@@ -23,7 +23,7 @@ To calculate statistics from data file:
 | max battery cap.| estimated max. battery capacity for the trip in kWh                |
 | max range estim.| estimated max. range for the trip conditions in km                 |
 
-* [Peugeot e-208 GT 2022](e-208_data/e-208_stats.md)
+* [Peugeot e-208 GT 2022](Peugeot_e-208_data/README.md)
 
 
 
