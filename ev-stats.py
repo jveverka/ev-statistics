@@ -126,6 +126,9 @@ print("| avg. bat. temp. | ", round(ave_bat_temperature, 2), "℃", "  |")
 print("| battery SoH     | ", round(battery_soh, 2), "%", "  |")
 print("| max battery cap.| ", round(battery_cap_calculated, 2), "kWh", "  |")
 print("| max range estim.| ", round(max_range_estimated, 2), "km", "  |")
+print("| car setup       | NA  |")
+print("| weather         | NA  |")
+print("| road condition  | NA  |")
 print("")
 
 
