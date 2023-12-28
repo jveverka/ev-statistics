@@ -4,39 +4,39 @@
 | Battery capacity   | 45 kWh usable, 50kWh nominal                                            |
 | Max. power output  | 100 kW (136 PS), front wheel drive                                      | 
 
-### Trip: 2023-12-23 13:25:39 mountains-downhill
-| Variable        | Value                          |
-|-----------------|--------------------------------|
-| trip time       | 0:44:51.009000                 |
-| power consumed  | 4.89 kWh                       |
-| distance        | 32.58 km                       |
-| avg. speed      | 43.79 km/h                     |
-| avg. consumtion | 15.02 kWh/100km                |
-| avg. amb. temp. | -0.7 ℃                         |
-| avg. bat. temp. | 5.19 ℃                         |
-| battery SoH     | 99.12 %                        |
-| max battery cap.| 43.43 kWh                      |
-| max range estim.| 289.16 km                      |
-| car setup       | AC Heating 18 ℃                |
-| weather         | Snowing                        |
-| road condition  | Wet Snow / Packed ice and snow |
+### Trip: mountains-downhill-reference-02
+| Variable        | 2023-12-23 13:25:39            | 2023-12-28 09:04:49   |
+|-----------------|--------------------------------|-----------------------|
+| trip time       | 0:44:51.009000                 | 0:37:04.020000        |
+| power consumed  | 4.89 kWh                       | 6.82 kWh              |
+| distance        | 32.58 km                       | 34.7 km               |
+| avg. speed      | 43.79 km/h                     | 56.45 km/h            |
+| avg. consumtion | 15.02 kWh/100km                | 19.64 kWh/100km       |
+| avg. amb. temp. | -0.7 ℃                         | 1.71 ℃                |
+| avg. bat. temp. | 5.19 ℃                         | 11.15 ℃               |
+| battery SoH     | 99.12 %                        | 99.12 %               |
+| max battery cap.| 43.43 kWh                      | 44.77 kWh             | 
+| max range estim.| 289.16 km                      | 227.93 km             |
+| car setup       | AC Heating 18 ℃                | AC Heating 17 ℃       |
+| weather         | Snowing                        | Clear sunny day       |
+| road condition  | Wet Snow / Packed ice and snow | Dry                   |
 
-### Trip: 2023-12-23 09:14:42 mountains-uphill
-| Variable        | Value                          |
-|-----------------|--------------------------------|
-| trip time       | 0:35:11.918000                 |
-| power consumed  | 6.18 kWh                       |
-| distance        | 32.0 km                        |
-| avg. speed      | 54.76 km/h                     |
-| avg. consumtion | 19.31 kWh/100km                |
-| avg. amb. temp. | -0.12 ℃                        |
-| avg. bat. temp. | 9.0 ℃                          |
-| battery SoH     | 99.12 %                        |
-| max battery cap.| 45.66 kWh                      |
-| max range estim.| 236.46 km                      |
-| car setup       | AC Heating 18 ℃                |
-| weather         | Snowing                        |
-| road condition  | Wet Snow / Packed ice and snow |
+### Trip: mountains-uphill-reference-03
+| Variable        | 2023-12-23 09:14:42            | 2023-12-28 13:55:07 |
+|-----------------|--------------------------------|---------------------| 
+| trip time       | 0:35:11.918000                 | 0:39:35.148000      |
+| power consumed  | 6.18 kWh                       | 4.64 kWh            |
+| distance        | 32.0 km                        | 36.63 km            |
+| avg. speed      | 54.76 km/h                     | 55.73 km/h          |
+| avg. consumtion | 19.31 kWh/100km                | 12.67 kWh/100km     |
+| avg. amb. temp. | -0.12 ℃                        | 5.98 ℃              |
+| avg. bat. temp. | 9.0 ℃                          | 8.65 ℃              |
+| battery SoH     | 99.12 %                        | 99.12 %             |
+| max battery cap.| 45.66 kWh                      | 42.35 kWh           |
+| max range estim.| 236.46 km                      | 334.31 km           |
+| car setup       | AC Heating 18 ℃                | AC Heating 17 ℃     |
+| weather         | Snowing                        | Clear sunny day     |
+| road condition  | Wet Snow / Packed ice and snow | Dry                 |   
 
 ### Trip: 2023-12-22 10:51:32
 | Variable        | Value                                      |
