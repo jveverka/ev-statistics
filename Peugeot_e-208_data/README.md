@@ -4,7 +4,7 @@
 | Battery capacity   | 45 kWh usable, 50kWh nominal                                            |
 | Max. power output  | 100 kW (136 PS), front wheel drive                                      | 
 
-### Trip: 2024-01-05 14:04:13 100 km/h test [source](2024-01-05_14-04-13_100kmh-test.csv)
+### Trip: 2024-01-05 14:04:13 highway constant speed 100 km/h test [source](2024-01-05_14-04-13_100kmh-test.csv)
 | Variable        | Value                         |
 |-----------------|-------------------------------|
 | trip time       | 0:18:48.078000                |
@@ -21,7 +21,7 @@
 | weather         | Clear Dry                     |
 | road condition  | Dry                           |
 
-### Trip: 2024-01-05 11:26:58 150 km/h test [source](2024-01-05_11-26-58_150kmh-test.csv)
+### Trip: 2024-01-05 11:26:58 highway constant speed 150 km/h test [source](2024-01-05_11-26-58_150kmh-test.csv)
 | Variable        | Value                         |
 |-----------------|-------------------------------|
 | trip time       | 0:10:24.127000                |
