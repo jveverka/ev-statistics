@@ -4,6 +4,23 @@
 | Battery capacity   | 45 kWh usable, 50kWh nominal                                            |
 | Max. power output  | 100 kW (136 PS), front wheel drive                                      | 
 
+### Trip: 2024-01-05 11:26:58 150 km/h test
+| Variable        | Value           |
+|-----------------|-----------------|
+| trip time       | 0:10:24.127000  |
+| power consumed  | 7.67 kWh        |
+| distance        | 25.15 km        |
+| avg. speed      | 145.37 km/h     |
+| avg. consumtion | 30.5 kWh/100km  |
+| avg. amb. temp. | 5.8 ℃           |
+| avg. bat. temp. | 13.75 ℃         |
+| battery SoH     | 99.12 %         |
+| max battery cap.| 45.22 kWh       |
+| max range estim.| 148.25 km       |
+| car setup       | AC Heating 17 ℃ |
+| weather         | Clear Dry       |
+| road condition  | Dry             |
+
 ### Trip: mountains-downhill-reference-02
 | Variable        | 2023-12-23 13:25:39            | 2023-12-28 09:04:49   |
 |-----------------|--------------------------------|-----------------------|
@@ -38,39 +55,22 @@
 | weather         | Snowing                        | Clear sunny day     |
 | road condition  | Wet Snow / Packed ice and snow | Dry                 |   
 
-### Trip: 2024-01-05 14:04:13 za-pb-reference-04
-| Variable        | Value                         |
-|-----------------|-------------------------------|
-| trip time       | 0:36:56.973000                |
-| power consumed  | 8.36 kWh                      |
-| distance        | 44.56 km                      |
-| avg. speed      | 73.03 km/h                    |
-| avg. consumtion | 18.76 kWh/100km               |
-| avg. amb. temp. | 6.78 ℃                        |
-| avg. bat. temp. | 14.88 ℃                       |
-| battery SoH     | 99.12 %                       |
-| max battery cap.| 39.55 kWh                     |
-| max range estim.| 210.83 km                     |
-| car setup       | AC Heating 17 ℃, winter tires |
-| weather         | Clear Dry                     |
-| road condition  | Dry                           |
-
-### Trip: 2024-01-05 11:26:58 za-pb-reference-04
-| Variable        | Value                         |
-|-----------------|-------------------------------|
-| trip time       | 0:22:35.282000                |
-| power consumed  | 9.07 kWh                      |
-| distance        | 34.93 km                      |
-| avg. speed      | 93.89 km/h                    |
-| avg. consumtion | 25.98 kWh/100km               |
-| avg. amb. temp. | 5.78 ℃                        |
-| avg. bat. temp. | 13.03 ℃                       |
-| battery SoH     | 99.12 %                       |
-| max battery cap.| 45.31 kWh                     |
-| max range estim.| 174.39 km                     |
-| car setup       | AC Heating 17 ℃, winter tires |
-| weather         | Clear Dry                     |
-| road condition  | Dry                           |
+### Trip: za-pb-reference-04
+| Variable        | 2024-01-05 11:26:58           | 2024-01-05 14:04:13           |
+|-----------------|-------------------------------|-------------------------------|
+| trip time       | 0:22:35.282000                | 0:36:56.973000                |
+| power consumed  | 9.07 kWh                      | 8.36 kWh                      |
+| distance        | 34.93 km                      | 44.56 km                      |
+| avg. speed      | 93.89 km/h                    | 73.03 km/h                    | 
+| avg. consumtion | 25.98 kWh/100km               | 18.76 kWh/100km               |
+| avg. amb. temp. | 5.78 ℃                        | 6.78 ℃                        |
+| avg. bat. temp. | 13.03 ℃                       | 14.88 ℃                       |
+| battery SoH     | 99.12 %                       | 99.12 %                       |
+| max battery cap.| 45.31 kWh                     | 39.55 kWh                     |
+| max range estim.| 174.39 km                     | 210.83 km                     |
+| car setup       | AC Heating 17 ℃, winter tires | AC Heating 17 ℃, winter tires |
+| weather         | Clear Dry                     | Clear Dry                     |
+| road condition  | Dry                           | Dry                           |
 
 ### Trip: 2023-12-22 10:51:32
 | Variable        | Value                                      |
