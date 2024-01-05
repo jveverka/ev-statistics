@@ -39,38 +39,38 @@
 | road condition  | Wet Snow / Packed ice and snow | Dry                 |   
 
 ### Trip: 2024-01-05 14:04:13 za-pb-reference-04
-| Variable        | Value                                      |
-|-----------------|--------------------------------------------|
-| trip time       |  0:36:56.973000 |
-| power consumed  |  8.36 kWh   |
-| distance        |  44.56 km   |
-| avg. speed      |  73.03 km/h   |
-| avg. consumtion |  18.76 kWh/100km   |
-| avg. amb. temp. |  6.78 ℃   |
-| avg. bat. temp. |  14.88 ℃   |
-| battery SoH     |  99.12 %   |
-| max battery cap.|  39.55 kWh   |
-| max range estim.|  210.83 km   |
-| car setup       | NA  |
-| weather         | NA  |
-| road condition  | NA  |
+| Variable        | Value                         |
+|-----------------|-------------------------------|
+| trip time       | 0:36:56.973000                |
+| power consumed  | 8.36 kWh                      |
+| distance        | 44.56 km                      |
+| avg. speed      | 73.03 km/h                    |
+| avg. consumtion | 18.76 kWh/100km               |
+| avg. amb. temp. | 6.78 ℃                        |
+| avg. bat. temp. | 14.88 ℃                       |
+| battery SoH     | 99.12 %                       |
+| max battery cap.| 39.55 kWh                     |
+| max range estim.| 210.83 km                     |
+| car setup       | AC Heating 17 ℃, winter tires |
+| weather         | Clear Dry                     |
+| road condition  | Dry                           |
 
 ### Trip: 2024-01-05 11:26:58 za-pb-reference-04
-| Variable        | Value                                      |
-|-----------------|--------------------------------------------|
-| trip time       |  0:22:35.282000 |
-| power consumed  |  9.07 kWh   |
-| distance        |  34.93 km   |
-| avg. speed      |  93.89 km/h   |
-| avg. consumtion |  25.98 kWh/100km   |
-| avg. amb. temp. |  5.78 ℃   |
-| avg. bat. temp. |  13.03 ℃   |
-| battery SoH     |  99.12 %   |
-| max battery cap.|  45.31 kWh   |
-| max range estim.|  174.39 km   |
-| car setup       | NA  |
-| weather         | NA  |
-| road condition  | NA  |
+| Variable        | Value                         |
+|-----------------|-------------------------------|
+| trip time       | 0:22:35.282000                |
+| power consumed  | 9.07 kWh                      |
+| distance        | 34.93 km                      |
+| avg. speed      | 93.89 km/h                    |
+| avg. consumtion | 25.98 kWh/100km               |
+| avg. amb. temp. | 5.78 ℃                        |
+| avg. bat. temp. | 13.03 ℃                       |
+| battery SoH     | 99.12 %                       |
+| max battery cap.| 45.31 kWh                     |
+| max range estim.| 174.39 km                     |
+| car setup       | AC Heating 17 ℃, winter tires |
+| weather         | Clear Dry                     |
+| road condition  | Dry                           |
 
 ### Trip: 2023-12-22 10:51:32
 | Variable        | Value                                      |
