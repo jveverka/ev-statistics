@@ -4,39 +4,56 @@
 | Battery capacity   | 45 kWh usable, 50kWh nominal                                            |
 | Max. power output  | 100 kW (136 PS), front wheel drive                                      | 
 
-### Trip: 2024-01-05 11:26:58 150 km/h test
-| Variable        | Value           |
-|-----------------|-----------------|
-| trip time       | 0:10:24.127000  |
-| power consumed  | 7.67 kWh        |
-| distance        | 25.15 km        |
-| avg. speed      | 145.37 km/h     |
-| avg. consumtion | 30.5 kWh/100km  |
-| avg. amb. temp. | 5.8 ℃           |
-| avg. bat. temp. | 13.75 ℃         |
-| battery SoH     | 99.12 %         |
-| max battery cap.| 45.22 kWh       |
-| max range estim.| 148.25 km       |
-| car setup       | AC Heating 17 ℃ |
-| weather         | Clear Dry       |
-| road condition  | Dry             |
+### Trip: 2024-01-05 14:04:13 100 km/h test [source](2024-01-05_14-04-13_100kmh-test.csv)
+| Variable        | Value                         |
+|-----------------|-------------------------------|
+| trip time       | 0:18:48.078000                |
+| power consumed  | 6.29 kWh                      |
+| distance        | 31.39 km                      |
+| avg. speed      | 100.27 km/h                   |
+| avg. consumtion | 20.05 kWh/100km               |
+| avg. amb. temp. | 6.61 ℃                        |
+| avg. bat. temp. | 14.94 ℃                       |
+| battery SoH     | 99.12 %                       |
+| max battery cap.| 39.48 kWh                     |
+| max range estim.| 196.87 km                     |
+| car setup       | AC Heating 17 ℃, winter tires |
+| weather         | Clear Dry                     |
+| road condition  | Dry                           |
+
+### Trip: 2024-01-05 11:26:58 150 km/h test [source](2024-01-05_11-26-58_150kmh-test.csv)
+| Variable        | Value                         |
+|-----------------|-------------------------------|
+| trip time       | 0:10:24.127000                |
+| power consumed  | 7.67 kWh                      |
+| distance        | 25.15 km                      |
+| avg. speed      | 145.37 km/h                   |
+| avg. consumtion | 30.5 kWh/100km                |
+| avg. amb. temp. | 5.8 ℃                         |
+| avg. bat. temp. | 13.75 ℃                       |
+| battery SoH     | 99.12 %                       |
+| max battery cap.| 45.22 kWh                     |
+| max range estim.| 148.25 km                     |
+| car setup       | AC Heating 17 ℃, winter tires |
+| weather         | Clear Dry                     |
+| road condition  | Dry                           |
 
 ### Trip: mountains-downhill-reference-02
-| Variable        | 2023-12-23 13:25:39            | 2023-12-28 09:04:49   |
-|-----------------|--------------------------------|-----------------------|
-| trip time       | 0:44:51.009000                 | 0:37:04.020000        |
-| power consumed  | 4.89 kWh                       | 6.82 kWh              |
-| distance        | 32.58 km                       | 34.7 km               |
-| avg. speed      | 43.79 km/h                     | 56.45 km/h            |
-| avg. consumtion | 15.02 kWh/100km                | 19.64 kWh/100km       |
-| avg. amb. temp. | -0.7 ℃                         | 1.71 ℃                |
-| avg. bat. temp. | 5.19 ℃                         | 11.15 ℃               |
-| battery SoH     | 99.12 %                        | 99.12 %               |
-| max battery cap.| 43.43 kWh                      | 44.77 kWh             | 
-| max range estim.| 289.16 km                      | 227.93 km             |
-| car setup       | AC Heating 18 ℃                | AC Heating 17 ℃       |
-| weather         | Snowing                        | Clear sunny day       |
-| road condition  | Wet Snow / Packed ice and snow | Dry                   |
+| Variable        | 2023-12-23 13:25:39            | 2023-12-28 09:04:49           |
+|-----------------|--------------------------------|-------------------------------|
+| trip time       | 0:44:51.009000                 | 0:37:04.020000                |
+| power consumed  | 4.89 kWh                       | 6.82 kWh                      |
+| distance        | 32.58 km                       | 34.7 km                       |
+| avg. speed      | 43.79 km/h                     | 56.45 km/h                    |
+| avg. consumtion | 15.02 kWh/100km                | 19.64 kWh/100km               |
+| avg. amb. temp. | -0.7 ℃                         | 1.71 ℃                        |
+| avg. bat. temp. | 5.19 ℃                         | 11.15 ℃                       |
+| battery SoH     | 99.12 %                        | 99.12 %                       |
+| max battery cap.| 43.43 kWh                      | 44.77 kWh                     | 
+| max range estim.| 289.16 km                      | 227.93 km                     |
+| car setup       | AC Heating 18 ℃, winter tires | AC Heating 17 ℃, winter tires |
+| weather         | Snowing                        | Clear sunny day               |
+| road condition  | Wet Snow / Packed ice and snow | Dry                           |
 
 ### Trip: mountains-uphill-reference-03
 | Variable        | 2023-12-23 09:14:42            | 2023-12-28 13:55:07 |
