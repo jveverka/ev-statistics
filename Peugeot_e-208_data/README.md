@@ -4,6 +4,23 @@
 | Battery capacity   | 45 kWh usable, 50kWh nominal                                            |
 | Max. power output  | 100 kW (136 PS), front wheel drive                                      | 
 
+### Trip: Reference 01 City + Highway Combined
+| Variable        | 2024-01-08 20:24:47           |
+|-----------------|-------------------------------|
+| trip time       | 0:36:51.786000                |
+| power consumed  | 8.46 kWh                      |
+| distance        | 39.7 km                       |
+| avg. speed      | 64.97 km/h                    |
+| avg. consumtion | 21.31 kWh/100km               |
+| avg. amb. temp. | -8.26 ℃                       |
+| avg. bat. temp. | 4.82 ℃                        |
+| battery SoH     | 98.94 %                       |
+| max battery cap.| 42.47 kWh                     |
+| max range estim.| 199.34 km                     |
+| car setup       | AC Heating 17 ℃, winter tires |
+| weather         | Dry freezing, night           |
+| road condition  | Dry                           |
+
 ### Trip: 2024-01-08 07:06:36 [source](2024-01-08_07-06-36.csv)
 | Variable        | Value                         |
 |-----------------|-------------------------------|
@@ -204,7 +221,7 @@
 | max battery cap.|  43.9 kWh   |
 | max range estim.|  221.37 km   |
 
-### Trip: 2023-12-02 09:33:16 ZA Reference 01
+### Trip: 2023-12-02 09:33:16
 | Variable        | Value                                      |
 |-----------------|--------------------------------------------|
 | trip total time |  0:25:28.143000 |
