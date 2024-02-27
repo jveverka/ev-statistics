@@ -4,6 +4,23 @@
 | Battery capacity   | 45 kWh usable, 50kWh nominal                                            |
 | Max. power output  | 100 kW (136 PS), front wheel drive                                      | 
 
+### Trip: 2024-02-26 18:40:37 [source](Peugeot_e-208_data/2024-02-26_18-40-37.csv)
+| Variable        | Value                         |
+|-----------------|-------------------------------|
+| trip time       | 0:17:52.822000                |
+| power consumed  | 1.15 kWh                      |
+| distance        | 9.5 km                        |
+| avg. speed      | 31.93 km/h                    |
+| avg. consumtion | 12.1 kWh/100km                |
+| avg. amb. temp. | 10.1 ℃                        |
+| avg. bat. temp. | 12.91 ℃                       |
+| battery SoH     | 97.94 %                       |
+| max battery cap.| 44.86 kWh                     |
+| max range estim.| 370.76 km                     |
+| car setup       | AC Heating 17 ℃, winter tires |
+| weather         | Dry, Night                    |
+| road condition  | Dry                           |
+
 ### Trip: 2024-01-21 08:56:39 [source](2024-01-21_08-56-39.csv)
 | Variable        | Value                         |
 |-----------------|-------------------------------|
