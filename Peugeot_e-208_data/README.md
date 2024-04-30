@@ -19,7 +19,8 @@
 | 2023 | December  | 10841    | 857       | 17.53          | 99.13 % |
 | 2024 | January   | 11629    | 788       | 18.85          | 98.94 % |
 | 2024 | February  | 12246    | 617       | 19.47          | 97.94 % |
-| 2024 | March     | 13898    | 1652      | 15.63          | 98.63%  |
+| 2024 | March     | 13898    | 1652      | 15.63          | 98.63 % |
+| 2024 | April     | 15532    | 1634      | 14.89          | 97.68 % |
  
 ### Trip: 2024-03-02 06:47:09 [source](Peugeot_e-208_data/Trip_2024-03-02_06-47-09/2024-03-02_06-47-09.csv)
 | Variable        | Drive 01 Values               | Drive 03 Values               |
@@ -73,21 +74,21 @@
 | road condition  | Dry freezing, compacted snow  |
 
 ### Trip: Reference 01 City + Highway Combined
-| Variable        | 2024-01-08 20:24:47           |
-|-----------------|-------------------------------|
-| trip time       | 0:36:51.786000                |
-| power consumed  | 8.46 kWh                      |
-| distance        | 39.7 km                       |
-| avg. speed      | 64.97 km/h                    |
-| avg. consumtion | 21.31 kWh/100km               |
-| avg. amb. temp. | -8.26 ℃                       |
-| avg. bat. temp. | 4.82 ℃                        |
-| battery SoH     | 98.94 %                       |
-| max battery cap.| 42.47 kWh                     |
-| max range estim.| 199.34 km                     |
-| car setup       | AC Heating 17 ℃, winter tires |
-| weather         | Dry freezing, night           |
-| road condition  | Dry                           |
+| Variable        | 2024-01-08 20:24:47           | 2024-04-30 19:26:34             |
+|-----------------|-------------------------------|---------------------------------|
+| trip time       | 0:36:51.786000                | 0:34:52.383000                  |
+| power consumed  | 8.46 kWh                      | 7.43 kWh                        |
+| distance        | 39.7 km                       | 39.62 km                        |
+| avg. speed      | 64.97 km/h                    | 68.35 km/h                      |
+| avg. consumtion | 21.31 kWh/100km               | 18.75 kWh/100km                 |
+| avg. amb. temp. | -8.26 ℃                       | 20.56 ℃                         |
+| avg. bat. temp. | 4.82 ℃                        | 25.36 ℃                         |
+| battery SoH     | 98.94 %                       | 97.69 %                         | 
+| max battery cap.| 42.47 kWh                     | 42.75 kWh                       |
+| max range estim.| 199.34 km                     | 228.0 km                        |
+| car setup       | AC Heating 17 ℃, winter tires | No AC, No heating, winter tires |
+| weather         | Dry freezing, night           | Dry sunny                       |                            
+| road condition  | Dry                           | Dry                             |
 
 ### Trip: 2024-01-08 07:06:36 [source](2024-01-08_07-06-36.csv)
 | Variable        | Value                         |
