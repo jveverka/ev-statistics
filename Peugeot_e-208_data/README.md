@@ -4,7 +4,7 @@
 | Battery capacity   | 45 kWh usable, 50kWh nominal                                            |
 | Max. power output  | 100 kW (136 PS), front wheel drive                                      | 
 
-## SoH statistics
+## Peugeot e-208 GT 2022 SoH statistics
 | No.  | Year | Month      | km Total | km Driven | avg. kWh/100km | SoH     |
 |------|------|------------|----------|-----------|----------------|---------|
 | 1    | 2023 | March      | 1248     | 1248      | 18.2           | 99.68 % |
